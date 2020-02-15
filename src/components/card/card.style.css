@@ -4,6 +4,7 @@
     background-color: #95dada;
     border: 1px solid gray;
     border-radius: 5px;
+    padding: 25px;
     cursor: pointer;
     -moz-osx-font-smoothing: grayscale;
     backface-visibility: hidden;
